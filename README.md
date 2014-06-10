@@ -4,7 +4,7 @@ A quickly cobbled script to assign sweepstake teams for the 2014 World Cup.
 
 ## Get started…
 **Step 1:**  
-`ruby sweepstake.rb`
+`$ ruby sweepstake.rb`
 
 **Step 2:**  
 Enter the names of the people taking part in your sweepstake.
