@@ -31,9 +31,12 @@ Foz, Bob, Avos, Stavos, Mr Brown, Uncle Trev
 - Mr Brown(5): Peru, Saudi Arabia, South Korea, Panama, Russia
 - Uncle Trev(6): Iran, Germany, Switzerland, Belgium, Brazil, Senegal
 
-**To split the teams into good and bad teams**
+**To split the teams into Top and Bottom teams**
 
-***Good teams***
+They were done by fifa ranking on 07 June 2018
+( ref: https://www.fifa.com/fifa-world-ranking/ranking-table/men/index.html )
+
+***Top teams***
 
 $ ruby sweepstake1.rb 
 
@@ -48,7 +51,7 @@ Foz, Bob, Avos, Stavos, Mr Brown, Uncle Trev
 - Mr Brown(2): Brazil, France
 - Uncle Trev(3): Belgium, Peru, Poland
 
-***Bad teams***
+***Bottom teams***
 
 $ ruby sweepstake2.rb 
 
