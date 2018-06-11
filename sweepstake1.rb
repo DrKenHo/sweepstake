@@ -1,4 +1,4 @@
-teams = ["Russia", "Brazil", "Iran", "Japan", "Mexico", "Belgium", "South Korea", "Saudi Arabia", "Germany", "England", "Spain", "Nigeria", "Costa Rica", "Poland", "Egypt", "Iceland", "Serbia", "Portugal", "France", "Uruguay", "Argentina", "Colombia", "Panama", "Senegal", "Morocco", "Tunisia", "Switzerland", "Croatia", "Sweden", "Denmark", "Australia", "Peru"]
+teams = ["Brazil", "Mexico", "Belgium", "Germany", "England", "Spain", "Poland", "Portugal", "France", "Uruguay", "Argentina", "Colombia", "Switzerland", "Croatia", "Denmark", "Peru"]
 puts "Who will be in your sweepstake? (names should be comma separated e.g: Pete, Rob, Kylie)"
 people = gets.chomp.split(", ")
 selections = {}
